@@ -1,0 +1,15 @@
+server:
+  port: 8092
+spring:
+  profiles:
+    active: dev
+  application:
+    name: spring-boot-rabbit-mq
+  rabbitmq:
+    host: 127.0.0.1
+    port: 5672
+    username: guest
+    password: guest
+app:
+  queue:
+    name: mq-queue-1
