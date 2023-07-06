@@ -10,7 +10,7 @@
 	</parent>
 
 	<groupId>com.appcu.code</groupId>
-	<artifactId>example-rabbit-mq</artifactId>
+	<artifactId>spring-boot-rabbitmq-example</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<name>spring-boot-rabbit-mq</name>
 	<description>Demo project for Spring boot with Rabbit MQ</description>

@@ -10,6 +10,5 @@ spring:
     port: 5672
     username: guest
     password: guest
-app:
-  queue:
-    name: mq-queue-1
+    queue:
+      q1-name: mq-queue-1
